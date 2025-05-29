@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: data-compute
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://rm-cn-9me49mca90004r8o.rwlb.rds.aliyuncs.com:5432/dataplatform
+    username: yjy
+    password: Yjy123456
